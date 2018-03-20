@@ -1,1 +1,1 @@
-# test
+Since the proliferation of opinion based web-content, sentiment analysis as an application of Natural Language Processing has attracted the attention in the past few years. Lot of development has been brought in this domain that has facilitated in achieving optimal classification of text data. In this project, I experimented with the widely used traditional classifiers and deep neural networks along with their hybrid combinations to optimize relevant parameters so as to obtain the best possible classification accuracy
